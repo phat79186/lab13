@@ -1,19 +1,19 @@
 .bg-img1{
     background-color: black;
     background-size: cover;
-    background-image: url('https://source.unsplash.com/1600x600/?mountain,night');
+    background-image: url(https://source.unsplash.com/1600x600/?mountain,night);
     height: 500px;
 }
 .bg-img2{
     background-color: black;
     background-size: cover;
-    background-image: url('https://source.unsplash.com/1600x600/?forest,moon');
+    background-image: url(https://source.unsplash.com/1600x600/?forest,moon);
     height: 500px;
 }
 .bg-img3{
     background-color: black;
     background-size: cover;
-    background-image: url'https://source.unsplash.com/1600x600/?lake,stars');
+    background-image: url(https://source.unsplash.com/1600x600/?lake,stars);
     height: 500px;
 }
 /* style.css */
